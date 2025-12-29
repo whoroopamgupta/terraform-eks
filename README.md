@@ -10,7 +10,7 @@ Follow the below link to Install AWS CLI.
 https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html
 ```
 
-### Install Terraform
+###Install Terraform
 
 Next, Install Terraform using the below link.
 ```
